@@ -1,4 +1,6 @@
 import unittest
+from map import *
+
 
 class Tests(unittest.TestCase):
 

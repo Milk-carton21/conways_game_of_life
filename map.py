@@ -80,6 +80,3 @@ def next_board_state(m: M) -> M:
     return M(m.width, m.height, new_state)
 
 
-a_dead = dead_state(2,4)
-a_random = random_state(a_dead)
-render(a_random)
