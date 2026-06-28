@@ -1,8 +1,5 @@
 from dataclasses import dataclass
-from typing import TypeAlias
 import random
-
-
 
 @dataclass(frozen=True)
 class M:
